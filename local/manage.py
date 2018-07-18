@@ -1,0 +1,1 @@
+/home/digitalprizm/MadhuriJ/webcam/manage.py
